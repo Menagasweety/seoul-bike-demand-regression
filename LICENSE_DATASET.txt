@@ -1,0 +1,1 @@
+Dataset attribution: Seoul Bike Sharing Demand (2020), UCI Machine Learning Repository, DOI 10.24432/C5F62R. Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). Source: https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand
